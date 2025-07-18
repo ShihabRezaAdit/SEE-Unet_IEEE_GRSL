@@ -51,7 +51,8 @@ If you use SEE-Unet in your research, please cite our work using the following B
 For any inquiries or issues, please contact:
 
 - **Ifran Rahman Nijhum**: ifran.nijhum@ucdconnect.ie
-- **Project Repository**: [GitHub Repository](https://github.com/ifran-rahman/SEE-Unet)
+- **Md Shihab Reza**: shihabreza.nsu@gmail.com
+- **Updated Project Repository**: [GitHub Repository](https://github.com/ifran-rahman/SEE-Unet)
 
 ---
 
